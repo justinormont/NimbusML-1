@@ -4,7 +4,7 @@
 
 ML.NET was originally developed in Microsoft Research and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and others. `nimbusml` was built to enable data science teams that are more familiar with Python to take advantage of ML.NET's functionality and performance. 
 
-This package enables training ML.NET pipelines or integrating ML.NET components directly into Scikit-Learn pipelines (it supports  `numpy.ndarray`, `scipy.sparse_cst`, and `pandas.DataFrame` as inputs).
+This package enables training ML.NET pipelines or integrating ML.NET components directly into scikit-learn pipelines (it supports  `numpy.ndarray`, `scipy.sparse_cst`, and `pandas.DataFrame` as inputs).
 
 Documentation can be found [here](https://docs.microsoft.com/en-us/NimbusML/overview) and additional notebook samples can be found [here](https://github.com/Microsoft/NimbusML-Samples).
 
